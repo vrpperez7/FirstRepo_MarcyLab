@@ -10,7 +10,7 @@ Hi! My name is Vincent, and I am learning how to use Git and GitHub as part of M
 - I am a Knicks Fan!!! Let's go Knicks!
 
 ## Check this out
-![My Image](https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3934672.png&w=350&h=254)!
+![My Image](https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3934672.png&w=350&h=254)
 
 
 Vincent is the best
